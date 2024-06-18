@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jokin Alcibar</h1>
-<h3 align="center">A passionate data analyst from Basque Country</h3>
+<h3 align="center">A passionate data analyst with a deep passion for Bayesian statistics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jokinaltzibar&label=Profile%20views&color=0e75b6&style=flat" alt="jokinaltzibar" /> </p>
 

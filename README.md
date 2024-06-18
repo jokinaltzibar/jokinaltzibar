@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jokinaltzibar" alt="jokinaltzibar" /></a> </p>
 
-- 🔭 I’m currently working on **PhD Thesis**
+- 🔭 I’m currently working on my **PhD Thesis about Bayesian Physics-Guided Neural Networks for Uncertainty Quantification in Battery Health Assessment**
 
-- 🌱 I’m currently learning **Bayesian Statistics**
+- 🌱 I’m currently learning **Bayesian Statistics, Physics-Guided Neural Networks**
 
 - 📫 How to reach me **jokinaltzibar@gmail.com**
 
